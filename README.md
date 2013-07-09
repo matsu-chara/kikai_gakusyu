@@ -1,4 +1,4 @@
-pythonの勉強ついでに実装した機械学習アルゴリズム集
+pythonの勉強ついでに実装した機械学習アルゴリズム集  
 [はじめよう機械学習](http://gihyo.jp/dev/serial/01/machine-learning)なども含みつつ
 
 + 主成分分析
